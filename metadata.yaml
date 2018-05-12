@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31783'
     url: http://www.gutenberg.org/2009/agents/31783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26081#Fighting-the-Traffic-in-Young-Girls--Or-War-on-the-White-Slave-Trade
 gutenberg_issued: '2008-07-17'
 gutenberg_type: Text
 identifiers:
